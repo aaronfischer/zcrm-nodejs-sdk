@@ -119,7 +119,6 @@ describe('Instantiation', function() {
         getRedirectURL: config.get('zoho.crm.redirecturl'),
         // Check defaults
         getUserIdentifier: 'zcrm_default_user',
-        getMySQLModule: './mysql/mysql_util',
         getAPIURL: 'www.zohoapis.com',
         getVersion: 'v2',
         getIAMUrl: 'accounts.zoho.com',
